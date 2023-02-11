@@ -1,0 +1,9 @@
+how to add files on github
+
+steps git init -b main
+
+1.git add .
+2.git commit -m 'add text'
+3.git remote add origin url
+4.git remote -v
+5.git push origin main
